@@ -34,4 +34,4 @@ child process started ... and done! (4469)
 ```
 
 How to kill zombies? You need to wait. 
-C program zombie-reaper.c attached.
+C program zombie-reaping.c attached.
