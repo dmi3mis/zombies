@@ -18,7 +18,7 @@ $ sudo zypper install gcc
 How to compile it
 
 ```
-$ gcc zombie.c -o zombie
+$ gcc zombies.c -o zombie
 ```
 
 How it works
@@ -33,5 +33,5 @@ parent just wont die...
 child process started ... and done! (4469)
 ```
 
-How to kill zombies? You need to wait. 
-C program zombie-reaping.c attached.
+How to kill zombies? 
+Stop program ./zombies and all zombies will be killed.
